@@ -1,0 +1,13 @@
+Dependecies/Packages  (Python 3):
+
+
+graphics.py
+random
+pandas
+numpy
+datetime
+os 
+time
+platform
+PIL
+pyautogui
