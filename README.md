@@ -1,7 +1,7 @@
 # Columbia Card Task
 
 
-A customizable version of the Columbia Card Task. It allows researchers to choose parameters such as: gain and loss amount, amount of loss cards, and number of rounds. It also comes with a cold - no user feedback - and a warm - with user feedback - version. The program outputs a csv file with the data from each run.
+Columbia Card Task. It also comes with a cold - no user feedback - and a warm - with user feedback - version. The program outputs a csv file with the data from each run.
 
 
 To utilize this program download the whole directory and make sure all files are in the same directory. Open the Python file of your preferred language on Jupyter notebooks, make sure you download all required packages and run the program.
