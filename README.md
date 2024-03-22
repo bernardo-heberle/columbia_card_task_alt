@@ -6,7 +6,7 @@ A customizable version of the Columbia Card Task. It allows researchers to choos
 
 To utilize this program download the whole directory and make sure all files are in the same directory. Open the Python file of your preferred language on Jupyter notebooks, make sure you download all required packages and run the program.
 
-git clone https://github.com/bernardo-heberle/Columbia-Card-Task
+`git clone https://github.com/bernardo-heberle/columbia_card_task_alt`
 
 
 
